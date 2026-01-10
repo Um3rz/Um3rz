@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Software Developer | Backend Engineer | AI Enthusiast
+### Software Engineer | Forward Deployed Engineer| AI Enthusiast
 
 *Building scalable systems and AI-powered solutions*
 
@@ -16,14 +16,14 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at **Lahore University of Management Sciences** (graduating May 2026) with a passion for building high-performance backend systems and AI-powered applications. Currently based in Riyadh, I've worked on everything from full-stack marketplaces to AI news curators, always focusing on scalability, reliability, and clean architecture.
+I'm a Computer Science student at **Lahore University of Management Sciences** with a passion for building high-performance backend systems and AI-powered applications. Currently based in Riyadh, I've worked on a range of projects, from full-stack marketplaces to AI news curators and stock trading simulators, consistently focusing on scalability, reliability, and clean architecture.
 
-- 🔭 Recently completed an **AI Engineering Internship** at Axon Build, where I reduced news curation latency by 35%
+- 🔭 Recently completed an **AI Engineering Internship** at Axon Build, where I worked on an AI news Curation platform and a Shopify customer bot.
 - 🌱 Experienced with **Spring Boot**, **Next.js**, **NestJS**, and cloud infrastructure on **AWS**
 - 💡 Interested in **distributed systems**, **machine learning operations**, and **real-time data processing**
-- 🎓 Exchange semester at **Seoul National University** (Summer 2025)
+- 🎓 Exchange semester at **Seoul National University ** (Summer 2025) 
 - 📫 Reach me at **umarzubaircs@gmail.com**
-
+- **Proficient** in English,Urdu,Spanish(A1) and Arabic(B1)
 ---
 
 ## 💻 Tech Stack
@@ -100,8 +100,8 @@ Enterprise dashboard with role-based authentication • **Spring Boot, React, Po
 ## 💼 Experience Highlights
 
 **AI Engineering Intern @ Axon Build** • *June-July 2025*
-- Built AI-powered News Curator with 35% latency reduction and 25% accuracy boost
-- Deployed scalable applications on AWS with 99% uptime
+- Built an AI-powered News Curator 
+- Dockerized and deployed scalable applications on AWS with 99% uptime
 
 **FullStack Engineer Intern @ The Locate** • *May-June 2024*
 - Developed marketplace platform supporting 500+ active users

@@ -68,17 +68,6 @@ I'm a Computer Science student at **Lahore University of Management Sciences** w
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Um3rz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Um3rz&theme=tokyonight&hide_border=true)
-
-
-</div>
-
 ---
 
 ## 🏆 Featured Projects

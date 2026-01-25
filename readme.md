@@ -76,7 +76,6 @@ I'm a Computer Science student at **Lahore University of Management Sciences** w
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Um3rz&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Um3rz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 

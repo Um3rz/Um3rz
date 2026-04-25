@@ -2,9 +2,9 @@
 
 <div align="center">
   
-### Software Engineer | Forward Deployed Engineer| AI Enthusiast
+### Technical Product Manager | Forward Deployed
 
-*Building scalable systems and AI-powered solutions*
+*Building scalable AI-powered solutions*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-zubair960/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umarzubaircs@gmail.com)

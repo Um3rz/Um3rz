@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Computer Science student at **Lahore University of Management Sciences** with a passion for building high-performance backend systems and AI-powered applications. Currently based in Riyadh, I've worked on a range of projects, from full-stack marketplaces to AI news curators and stock trading simulators, consistently focusing on scalability, reliability, and clean architecture.
 

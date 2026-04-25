@@ -20,7 +20,7 @@ I'm a Computer Science student at **Lahore University of Management Sciences** w
 
 - 🔭 Recently completed an **AI Engineering Internship** at Axon Build, where I worked on an AI news Curation platform and a Shopify customer bot.
 - 🌱 Experienced with **Spring Boot**, **Next.js**, **NestJS**, and cloud infrastructure on **AWS**
-- 💡 Interested in **distributed systems**, **machine learning operations**, and **real-time data processing**
+- 💡 Interested in **AI Product Management**, **MLOps**, and **Scalable Systems**
 - 🎓 Exchange semester at **Seoul National University ** (Summer 2025) 
 - 📫 Reach me at **umarzubaircs@gmail.com**
 - **Proficient** in English,Urdu,Spanish(A1) and Arabic(B1)
@@ -73,14 +73,22 @@ I'm a Computer Science student at **Lahore University of Management Sciences** w
 ## 🏆 Featured Projects
 
 ### 🔹 [TradeUp – PSX Mock Trading Platform](https://github.com/um3rz/tradeup)
-Full-stack trading platform with real-time market data • **Next.js, NestJS, PostgreSQL, AWS**
+Full-stack trading platform with real-time market data • **Next.js, NestJS, PostgreSQL, GCP, Product Management**
 - Fault-tolerant trading engine with ACID-compliant transactions
+- WebSockets-based multiplayer AI-simulated game that allows users to compete with each other 
 - RESTful API architecture for portfolio management and authentication
-
+  
+### 🔹 [Clutterless: AI-Powered Academic Email Management App (HCI Research Project)](https://www.figma.com/proto/4O52IIJeu3fzSnCKYrKi0E/Cluterless?node-id=0-1&t=RbS4f5cDte8n86Gw-1)
+De Clutter your academic email inbox • **Figma,UX Research,Product Management**
+- Led a 5-person team through end-to-end product discovery and design over 2 months, managing a structured
+research-to-prototype pipeline that produced a market-ready mobile application concept.
+-  Defined the product vision and feature set for Clutterless, an AI-personalized email triage app with swipe-based filtering,
+a Daily Digest, Bulletin Board, and smart calendar sync , directly mapped to validated pain points around signal-to-noise
+ratio and academic fragmentation.
+  
 ### 🔹 [Full-Stack Enterprise Dashboard](https://github.com/um3rz/dashboard)
 Enterprise dashboard with role-based authentication • **Spring Boot, React, PostgreSQL, AWS**
 - Supports 500+ concurrent users with JWT authentication
-- 40% improvement in query response times with optimized pagination
 - 99.5% uptime with Docker containerization and auto-scaling
 
 ---

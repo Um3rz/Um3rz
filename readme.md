@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-zubair960/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umarzubaircs@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-%23121011.svg?logo=portfolio&logoColor=white)](https://umar-zubair-nine.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?logo=portfolio&logoColor=white)](https://umar-zubair-nine.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/um3rz)
 
 </div>

@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Technical Product Manager | Forward Deployed
+### Technical Product Manager | Product Engineering
 
 *Building scalable AI-powered solutions*
 

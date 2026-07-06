@@ -22,7 +22,7 @@ I'm a Computer Science student at **Lahore University of Management Sciences** w
 - 🔭 Recently completed an **AI Engineering Internship** at Axon Build, where I worked on an AI news Curation platform and a Shopify customer bot.
 - 🌱 Experienced with **Spring Boot**, **Next.js**, **NestJS**, and cloud infrastructure on **AWS**
 - 💡 Interested in **AI Product Management**, **MLOps**, and **Scalable Systems**
-- 🎓 Exchange semester at **Seoul National University ** (Summer 2025) 
+- 🎓 Exchange semester at **Seoul National University** (Summer 2025) 
 - 📫 Reach me at **umarzubaircs@gmail.com**
 - **Proficient** in English,Urdu,Spanish(A1) and Arabic(B1)
 ---
